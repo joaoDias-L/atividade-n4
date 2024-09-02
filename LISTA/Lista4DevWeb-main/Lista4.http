@@ -1,0 +1,6 @@
+@Lista4_HostAddress = http://localhost:5080
+
+GET {{Lista4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
